@@ -55,5 +55,6 @@ Implementation Challenges
 
 4. Designing intuitive visualization that effectively communicates insight
 
+ ![Image Alt]( https://github.com/Sudeep-exe/FINANCIAL-COMPLAINT-OVERVIEW-/blob/e3284b5470897da53abdc47f55909944c8901bd6/Capture.PNG)
 
-   [image alt](https://github.com/Sudeep-exe/FINANCIAL-COMPLAINT-OVERVIEW-/blob/main/Capture.PNG)
+ 
